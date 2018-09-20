@@ -16,3 +16,5 @@ Female sharks fight with other female sharks and one can remain.
 Whether a shark falls in the position of a fish or a fish falls into the position of a shark, the shark will eat the fish.
 
 This happens indefinitely in the world of Wator and it is possible to appreciate how the ecosystem changes constantly, but life always prevails.
+
+<img src="wator.jpg">
